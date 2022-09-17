@@ -1,4 +1,4 @@
-# Manuscript "Dynamic mixed data analysis and visualization" apps
+# Apps included in the manuscript "Dynamic mixed data analysis and visualization"
 This repository contains the three apps included in the "Dynamic mixed data analysis and visualization" paper submitted to Entropy.
 
 The project is about constructing distance matrices for EU countries given some Covid-19 related variables.
