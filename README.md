@@ -1,7 +1,7 @@
 # Matlab code, R shiny apps and data sets  included in the manuscript "Dynamic mixed data analysis and visualization"
 This repository contains the matlab code, the R shiny apps and the data sets included in the "Dynamic mixed data analysis and visualization" paper submitted to Entropy.
 
-The project is about constructing distance matrices for EU countries given some Covid-19 related variables.
+The project is about constructing robust distance matrices over time for EU countries given some Covid-19 related variables to evaluate similarity among countries with respect to the tackling of the pandemic.
 
 The matlab part is about sections 2.1-2.4 and 3.1-3.2 of the manuscript, whereas the shiny apps are described in section 3.3.
 
